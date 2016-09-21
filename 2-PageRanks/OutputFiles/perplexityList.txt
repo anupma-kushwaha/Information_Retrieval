@@ -1,0 +1,6 @@
+       fileName = perplexityList.txt 
+ 
+1.0
+1.0
+1.0
+1.0

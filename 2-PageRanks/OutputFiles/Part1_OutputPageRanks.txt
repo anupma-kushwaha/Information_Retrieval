@@ -1,0 +1,24 @@
+all pageranks with iteration 1
+A,  0.249306
+E,  0.213889
+C,  0.143056
+F,  0.143056
+D,  0.13125
+B,  0.119444
+
+all pageranks with iteration 10
+A,  0.252036
+E,  0.187107
+C,  0.151294
+F,  0.151294
+B,  0.139307
+D,  0.118963
+
+all pageranks with iteration 100
+A,  0.252127
+E,  0.187046
+C,  0.151306
+F,  0.151306
+B,  0.139306
+D,  0.118908
+
